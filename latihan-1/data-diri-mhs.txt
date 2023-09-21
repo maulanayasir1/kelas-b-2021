@@ -1,6 +1,7 @@
 Format .txt repo tugas individu.
 
-Berikut Data nya :
+
+Ini adalah data saya
 
 Nama  : Muhammad Irwan Nawawi
 NPM   : 5520121005
