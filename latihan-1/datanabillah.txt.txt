@@ -1,4 +1,4 @@
-DATA DIRI :
+Data Diri :
 
 Nama : Nabillah Fira Yamin Hasibuan
 Npm : 5520121036
