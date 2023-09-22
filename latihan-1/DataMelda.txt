@@ -1,0 +1,5 @@
+   DATA DIRI
+
+Nama	: Melda Kartika
+NPM	: 5520121033
+Kelas	: IF-B 2021
